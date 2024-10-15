@@ -1,0 +1,16 @@
+{ 
+    "manifest_version": 3,
+    "name": "Random Hindi Jokes",
+    "description": "A simple screen which displays a Hindi joke with some emojis, created by Vishal Kumar.",
+    "version": "1.0",
+    "action": {
+      "default_popup": "index.html"
+    },
+    "icons": {
+      "16": "jokerImg/j1.png",
+      "32": "jokerImg/j3.png",
+      "48": "jokerImg/j4.png",
+      "128": "jokerImg/j5.png"
+    }
+  }
+  

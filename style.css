@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "gilroy";
+}
+
+.container {
+  padding: 5px;
+  width: 350px;
+  flex-wrap: wrap;
+  background: rgba(210, 188, 252, 0.596);
+  text-align: center;
+}
+.container .joke-display {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 2px solid yellow;
+  font-family: monospace;
+  padding: 2px;
+  border-radius: 10px;
+  color: rgba(0, 60, 255, 0.781);
+  font-weight: 800;
+  font-size: 1rem;
+}
+.container button {
+  padding: 10px;
+  margin-top: 5px;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
